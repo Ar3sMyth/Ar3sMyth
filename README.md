@@ -19,5 +19,5 @@
 - Análise de dados de leads
 
 📫 Contato:
-- LinkedIn: (coloque aqui)
-- Email: (opcional)
+- LinkedIn: https://www.linkedin.com/in/andrey-seraos/
+- Email: soaresdr3y@gmail.com
