@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou Andrey Soares
 
-<!--
-**Ar3sMyth/Ar3sMyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Análise de Dados | Python | SQL | Automação
 
-Here are some ideas to get you started:
+💻 Atualmente trabalhando com:
+- Automação de processos com Python
+- Integração de sistemas via API REST (Webhook)
+- Manipulação e análise de dados
+- CRM e organização de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Principais habilidades:
+- Python | SQL | Pandas
+- APIs REST
+- Excel Avançado (Macros)
+- Automação de processos
+
+📂 Projetos em destaque:
+- Automação de dados com integração em CRM
+- Análise de dados de leads
+
+📫 Contato:
+- LinkedIn: (coloque aqui)
+- Email: (opcional)
