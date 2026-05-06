@@ -44,27 +44,35 @@ Gosto de construir software que resolve o problema inteiro, não apenas uma etap
 
 ---
 
-## Projetos em Preparação
+## Projetos Publicados
 
-Estou organizando versões públicas e anonimizadas de projetos criados para cenários reais de operação. O objetivo é mostrar arquitetura, raciocínio técnico e stack utilizada sem expor dados, clientes, processos internos ou informações sensíveis.
+### [CPF Data Quality Toolkit](https://github.com/Ar3sMyth/cpf-data-quality-toolkit)
 
-### Data Quality Toolkit
-
-Ferramenta em Python para validação, normalização e comparação de bases tabulares. Inclui tratamento de documentos, detecção de inconsistências, filtros dinâmicos e exportação em CSV/XLSX.
+Ferramenta desktop em Python para validação, normalização, comparação e exportação de bases tabulares contendo CPFs. Demonstra tratamento de dados, validação matemática, filtros dinâmicos e exportação em CSV/XLSX.
 
 **Stack:** Python, Pandas, Tkinter, OpenPyXL.
 
-### CRM Audience Normalizer
+### [CRM Audience Normalizer](https://github.com/Ar3sMyth/crm-audience-normalizer)
 
-Conversor de bases de CRM para formatos de públicos personalizados. O projeto trabalha limpeza de telefones, e-mails, nomes, CEPs e relatórios de qualidade dos dados.
+Conversor de bases de CRM para formatos de públicos personalizados. O projeto trabalha limpeza de telefones, e-mails, nomes, CEPs, agrupamento de contatos e relatórios de qualidade dos dados.
 
 **Stack:** Python, Pandas, Tkinter, OpenPyXL.
 
-### Operations Dashboard Demo
+### [Operations Dashboard Demo](https://github.com/Ar3sMyth/operations-dashboard-demo)
 
-Dashboard local para acompanhamento de indicadores, registros e status operacionais, com persistência em JSON e interface web simples para uso em rede local.
+Dashboard web local para acompanhar registros operacionais em formato Kanban, com indicadores, filtros, edição, visão tabular, relatórios e importação/exportação JSON.
 
-**Stack:** HTML, CSS, JavaScript, PowerShell.
+**Stack:** HTML, CSS, JavaScript, LocalStorage.
+
+### [Controle de Estoque](https://github.com/Ar3sMyth/controleEstoque)
+
+Projeto acadêmico desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas, mantido como registro da evolução em lógica de programação, CRUD e modelagem de regras simples de negócio.
+
+**Stack:** Fundamentos de programação e lógica aplicada.
+
+---
+
+## Próximos Projetos em Preparação
 
 ### Internal Data Platform Demo
 
