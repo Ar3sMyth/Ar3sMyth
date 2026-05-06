@@ -42,6 +42,7 @@ Construo ferramentas que reduzem trabalho manual, organizam bases, automatizam f
 | [CPF Data Quality Toolkit](https://github.com/Ar3sMyth/cpf-data-quality-toolkit) | Validação, normalização, comparação e exportação de bases tabulares | Python, Pandas, Tkinter, OpenPyXL |
 | [CRM Audience Normalizer](https://github.com/Ar3sMyth/crm-audience-normalizer) | Limpeza e padronização de contatos para públicos personalizados | Python, Pandas, Tkinter, OpenPyXL |
 | [Operations Dashboard Demo](https://github.com/Ar3sMyth/operations-dashboard-demo) | Kanban operacional com indicadores, filtros, edição e JSON local | HTML, CSS, JavaScript |
+| [Web Automation Monitoring Case Study](https://github.com/Ar3sMyth/web-automation-monitoring-case-study) | Arquitetura de automação web com fila, logs, resiliência e observabilidade | Python, Selenium, BeautifulSoup |
 | [Controle de Estoque](https://github.com/Ar3sMyth/controleEstoque) | Projeto acadêmico de ADS mantido como registro de evolução | Lógica de programação, CRUD |
 
 ---
@@ -53,16 +54,6 @@ Construo ferramentas que reduzem trabalho manual, organizam bases, automatizam f
 - Cuidado com qualidade, validação e rastreabilidade de dados.
 - Automação de rotinas repetitivas com foco em redução de erro.
 - Preocupação com privacidade antes de publicar projetos derivados de cenários reais.
-
----
-
-## Próximo Case em Preparação
-
-### Web Automation Case Study
-
-Estudo técnico sobre automação assistida de consultas em sistemas web, com fila de processamento, logs, recuperação de falhas, controle de sessão e observabilidade.
-
-**Stack:** Python, Selenium, BeautifulSoup, logging, Tkinter/PySide6.
 
 ---
 
