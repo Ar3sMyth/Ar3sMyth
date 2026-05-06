@@ -46,6 +46,12 @@ Gosto de construir software que resolve o problema inteiro, não apenas uma etap
 
 ## Projetos Publicados
 
+### [Internal Data Platform Demo](https://github.com/Ar3sMyth/internal-data-platform-demo)
+
+Sistema full-stack para importação, padronização, consulta, exportação e auditoria de registros tabulares. Demonstra arquitetura com backend Django/DRF, frontend React, autenticação, logs, dashboards e fluxo de dados.
+
+**Stack:** Django, Django REST Framework, React, Vite, Tailwind CSS, Recharts, SQLite.
+
 ### [CPF Data Quality Toolkit](https://github.com/Ar3sMyth/cpf-data-quality-toolkit)
 
 Ferramenta desktop em Python para validação, normalização, comparação e exportação de bases tabulares contendo CPFs. Demonstra tratamento de dados, validação matemática, filtros dinâmicos e exportação em CSV/XLSX.
@@ -73,12 +79,6 @@ Projeto acadêmico desenvolvido durante o curso de Análise e Desenvolvimento de
 ---
 
 ## Próximos Projetos em Preparação
-
-### Internal Data Platform Demo
-
-Sistema full-stack para importação, padronização, consulta, bloqueio, exportação e auditoria de registros. A versão pública será baseada em dados sintéticos e regras genéricas.
-
-**Stack:** Django, Django REST Framework, React, Vite, Tailwind CSS, Recharts, SQLite.
 
 ### Web Automation Case Study
 
